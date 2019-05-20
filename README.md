@@ -1,24 +1,9 @@
-# README
+# Webpackering Me
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a project to understand how to use Webpacker.
 
-Things you may want to cover:
+Seems like using Webpacker would make easier use modern frontend tools in a Ruby on Rails application. Also, would help organizing JavaScript code in a more ideal way than when using Sprockets and asset pipeline.
 
-* Ruby version
+## Articles Used to Study
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [Introducing Webpacker](https://medium.com/statuscode/introducing-webpacker-7136d66cddfb)
