@@ -7,3 +7,4 @@ Seems like using Webpacker would make easier use modern frontend tools in a Ruby
 ## Articles Used to Study
 
 - [Introducing Webpacker](https://medium.com/statuscode/introducing-webpacker-7136d66cddfb)
+- [Goodby Sprockets, Welcome Webpacker](https://medium.com/@coorasse/goodbye-sprockets-welcome-webpacker-3-0-ff877fb8fa79)

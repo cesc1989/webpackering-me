@@ -15,4 +15,12 @@
 // const images = require.context('../images', true)
 // const imagePath = (name) => images(name, true)
 
-console.log('Hello World from Webpacker')
+import Rails from 'rails-ujs'
+import Turbolinks from 'turbolinks'
+import * as ActiveStorage from 'activestorage'
+
+import '../src/posts.js'
+
+Rails.start()
+Turbolinks.start()
+ActiveStorage.start()
