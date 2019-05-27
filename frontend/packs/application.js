@@ -22,6 +22,8 @@ import 'bootstrap'
 
 import '../src/posts.js'
 
+import './application.css'
+
 Rails.start()
 Turbolinks.start()
 ActiveStorage.start()

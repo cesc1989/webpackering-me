@@ -15,5 +15,16 @@ module WebpackerTest
     # Application configuration can go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded after loading
     # the framework and any gems in your application.
+
+    # See more about changing these in
+    # https://guides.rubyonrails.org/configuring.html#configuring-assets
+    #
+    config.generators do |g|
+      g.test_framework false
+      g.stylesheets false
+      g.javascripts false
+      g.helper false
+      g.channel assets: false
+    end
   end
 end
